@@ -20,3 +20,14 @@ wordle but for the phonology of languages. all audio clips are from wikitongues.
 gathering language audios from [this list](https://en.wikipedia.org/wiki/Languages_of_South_Asia) (starting from the east)
 
 ![image](https://github.com/user-attachments/assets/ac928a04-fda0-4da7-946f-68221feb5ed7)
+
+# completed languages
+- hindi (easy and hard)
+- assamese (easy and hard)
+- bengali?
+# languages with no audio
+- naga pidgin/nagamese
+- mizo
+- meitei/manipuri
+- bishnupriya manipuri (meitei-bengali creole language)
+- 
